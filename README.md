@@ -1,0 +1,1 @@
+This is my list of options files for compiling the Einstein Toolkit on different machines. In each file you should find information regarding which modules or programs to activate/install for their corresponding machine.
